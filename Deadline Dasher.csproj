@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="24.2.3" />
+    <PackageReference Include="Syncfusion.EJ2.MVC5" Version="24.2.6" />
   </ItemGroup>
 
 </Project>
